@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Gopi
 
-<!--
-**dev-gopi/dev-gopi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | API Builder | Problem Solver
 
-Here are some ideas to get you started:
+I’m a passionate **Backend Developer** who loves building **scalable, secure, and efficient server-side applications**.  
+My focus is on creating **robust REST APIs, optimized database structures, and maintainable backend architectures** that power real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong interest in **performance, clean code, and system design**, I enjoy solving complex backend challenges and transforming ideas into reliable digital products.
+
+### 🔥 What I do
+- Build scalable backend applications
+- Develop REST APIs and microservices
+- Design and optimize databases
+- Improve performance and security
+- Write clean, production-ready code
+
+### 🛠 Tech Stack
+**Backend:** Node.js, Express.js, Java, Spring Boot  
+**Database:** MySQL, PostgreSQL, MongoDB  
+**Tools:** Git, GitHub, Docker, Postman  
+**Concepts:** REST APIs, Authentication, System Design, CRUD, MVC
+
+### 🌱 Currently growing in
+- Advanced Backend Architecture
+- Microservices
+- Cloud & Deployment
+- Performance Optimization
+
+### 🚀 Goal
+To build impactful backend systems that are fast, reliable, and scalable.
