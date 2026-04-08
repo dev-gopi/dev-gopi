@@ -57,9 +57,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-gopi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gopi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-gopi&show_icons=true&theme=tokyonight&hide_border=true" height="180em" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gopi&layout=compact&theme=tokyonight&hide_border=true" height="180em" /> 
 </p>
 
 ---
